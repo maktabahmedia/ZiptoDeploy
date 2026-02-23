@@ -1,0 +1,5 @@
+{
+  "name": "ZipToRepo",
+  "description": "Upload a ZIP file and deploy it directly to a new GitHub repository.",
+  "requestFramePermissions": []
+}
